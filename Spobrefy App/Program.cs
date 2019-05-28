@@ -462,6 +462,7 @@ namespace Spobrefy_App
                 }
             }
         }
+
         static public void timerExit(Object obj)
         {
             if (Contador >= 0)
