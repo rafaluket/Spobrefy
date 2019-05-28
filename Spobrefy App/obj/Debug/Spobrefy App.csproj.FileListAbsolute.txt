@@ -1,0 +1,6 @@
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\bin\Debug\Spobrefy App.exe.config
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\bin\Debug\Spobrefy App.exe
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\bin\Debug\Spobrefy App.pdb
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\obj\Debug\Spobrefy App.csprojResolveAssemblyReference.cache
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\obj\Debug\Spobrefy App.exe
+c:\users\luquete\documents\visual studio 2015\Projects\Spobrefy App\Spobrefy App\obj\Debug\Spobrefy App.pdb
